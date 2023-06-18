@@ -1,0 +1,15 @@
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.csproj.AssemblyReference.cache
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.AssemblyInfoInputs.cache
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.AssemblyInfo.cs
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.csproj.CoreCompileInputs.cache
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\bin\Debug\net6.0\EdabitVeryEasy.exe
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\bin\Debug\net6.0\EdabitVeryEasy.deps.json
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\bin\Debug\net6.0\EdabitVeryEasy.runtimeconfig.json
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\bin\Debug\net6.0\EdabitVeryEasy.dll
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\bin\Debug\net6.0\EdabitVeryEasy.pdb
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.dll
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\refint\EdabitVeryEasy.dll
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.pdb
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\EdabitVeryEasy.genruntimeconfig.cache
+C:\Users\LLKra\Desktop\School\edabit\VeryEasy\EdabitVeryEasy\EdabitVeryEasy\obj\Debug\net6.0\ref\EdabitVeryEasy.dll
